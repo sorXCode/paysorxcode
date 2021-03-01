@@ -1,3 +1,4 @@
 .vscode
 *py[cab]
 venv
+.env
